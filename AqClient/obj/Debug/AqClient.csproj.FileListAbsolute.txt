@@ -1,0 +1,10 @@
+C:\Users\Abdo\source\repos\Aqserver\AqClient\bin\Debug\AqClient.exe.config
+C:\Users\Abdo\source\repos\Aqserver\AqClient\bin\Debug\AqClient.exe
+C:\Users\Abdo\source\repos\Aqserver\AqClient\bin\Debug\AqClient.pdb
+C:\Users\Abdo\source\repos\Aqserver\AqClient\obj\Debug\AqClient.csprojAssemblyReference.cache
+C:\Users\Abdo\source\repos\Aqserver\AqClient\obj\Debug\AqClient.Form1.resources
+C:\Users\Abdo\source\repos\Aqserver\AqClient\obj\Debug\AqClient.Properties.Resources.resources
+C:\Users\Abdo\source\repos\Aqserver\AqClient\obj\Debug\AqClient.csproj.GenerateResource.cache
+C:\Users\Abdo\source\repos\Aqserver\AqClient\obj\Debug\AqClient.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\source\repos\Aqserver\AqClient\obj\Debug\AqClient.exe
+C:\Users\Abdo\source\repos\Aqserver\AqClient\obj\Debug\AqClient.pdb

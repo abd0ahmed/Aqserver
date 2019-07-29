@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aqserver", "Aqserver\Aqserver.csproj", "{D97A70FD-7568-4B23-91BD-0DABE9D0B0C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AqClient", "AqClient\AqClient.csproj", "{7030084F-6A02-483A-8B60-D149DD0CA3F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AqserverTests", "AqserverTests\AqserverTests.csproj", "{E3E3C354-FACF-4902-AD77-45BEA13C8935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97A70FD-7568-4B23-91BD-0DABE9D0B0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97A70FD-7568-4B23-91BD-0DABE9D0B0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97A70FD-7568-4B23-91BD-0DABE9D0B0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97A70FD-7568-4B23-91BD-0DABE9D0B0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7030084F-6A02-483A-8B60-D149DD0CA3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7030084F-6A02-483A-8B60-D149DD0CA3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7030084F-6A02-483A-8B60-D149DD0CA3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7030084F-6A02-483A-8B60-D149DD0CA3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E3C354-FACF-4902-AD77-45BEA13C8935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E3C354-FACF-4902-AD77-45BEA13C8935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E3C354-FACF-4902-AD77-45BEA13C8935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E3C354-FACF-4902-AD77-45BEA13C8935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {436095B8-1929-494C-BDC3-993BFE6FBCB8}
+	EndGlobalSection
+EndGlobal
